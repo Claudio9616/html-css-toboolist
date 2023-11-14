@@ -28,7 +28,7 @@ h1{
     max-width: 1000px;
     border-radius: 5px 5px 0 0;
     background-color: white;
-    margin-bottom: 5px;
+    margin-bottom: 1px;
 }
 .button-one{
     color: white;
@@ -55,9 +55,86 @@ h1{
 }
 .conteiner-main{
     margin: 0 auto;
-    height: 60px;
+    height: 600px;
     max-width: 1000px;
     border-radius: 0 0 5px 5px;
     background-color: white;
-    margin-bottom: 5px;
+}
+.conteiner-main-two{
+    margin-left: 30px;
+    padding-top: 30px;
+}
+.bold{
+    list-style-type: none;
+}
+b{
+    font-size: 1.1rem;
+}
+.text{
+    line-height: 20px;
+    height: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.check{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    border: 1px solid green;
+    color: green;
+}
+.special-text{
+    font-size: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+.special-text-purple{
+    font-size: 10px;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+.special-text-green{
+    font-size: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+.uncheck{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    border: 1px solid red;
+    color: red;
+}
+.special-text-orange{
+    font-size: 10px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+.special-text-pink{
+    font-size: 10px;
+    background-color: pink;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+.special-text-greenyellow{
+    font-size: 10px;
+    background-color: greenyellow;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
 }
